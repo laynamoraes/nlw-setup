@@ -2,7 +2,7 @@
 
 ![](./.github/preview.jpg)
 
-[Acesse aqui 👈🏻]()
+[Acesse aqui 👈🏻](https://laynamoraes.github.io/nlw-setup/)
 <br><br>
 
 ## 📜 Sobre
